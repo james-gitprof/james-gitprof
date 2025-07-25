@@ -4,4 +4,7 @@
 
 💻 Right now, I’m on a journey to become a full-fledged developer, open to wherever the path leads. Web, software, or something in between. I believe in learning by doing. Every step made, whether that'd be an unfinished project; a line of code written, a frustrating bug, or some little projects brought to life, each attempts made is a one step closer to that goal.
 
-Here I am, enjoying the process. One line of code at a time. 😊
+Enjoying the process, one line at a time 😊
+
+⛓️‍💥Links
+My gitlab (used for other things): https://gitlab.com/luminiel 
