@@ -6,5 +6,6 @@
 
 Enjoying the process, one line at a time 😊
 
-⛓️‍💥Links
+⛓️‍💥Links:
+
 My gitlab (used for other things): https://gitlab.com/luminiel 
