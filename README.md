@@ -8,4 +8,4 @@ Enjoying the process, one line at a time 😊
 
 ⛓️‍💥Links:
 
-Gitlab (for publishing my mods): https://gitlab.com/luminiel 
+Gitlab (for other side projects): https://gitlab.com/luminiel 
